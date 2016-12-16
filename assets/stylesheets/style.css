@@ -1,0 +1,13 @@
+#container{
+	font-family: sans-serif;
+}
+	.structure{
+		width: 17em;
+		height: 10em;
+		display: inline-block;
+		text-align: center;
+		border: 2px solid black;
+	}
+	p{
+		margin: 25px 0px;
+	}
